@@ -13,9 +13,6 @@
     The API will then be available at http://127.0.0.1:8000.
    
     
-  # Contributing
-    Kimberly Reddick
-    
   # Questions
     For any questions about the project, please visit my 
     GitHub Profile: [flirtara](https://github.com/flirtara) 
