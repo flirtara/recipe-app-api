@@ -1,4 +1,6 @@
 # Recipe App Api
+[![Build Status](https://app.travis-ci.com/flirtara/recipe-app-api.svg?branch=main)](https://app.travis-ci.com/flirtara/recipe-app-api)
+
   This is a simple Rest Api to store Recipes.  
 
 
